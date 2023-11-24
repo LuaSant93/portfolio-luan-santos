@@ -1,0 +1,79 @@
+{
+    "name": "Luan Santos",
+    "photo": "https://scontent.fnvt10-1.fna.fbcdn.net/v/t1.6435-9/82613002_2689221797834440_8340914625855881216_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7f8c78&_nc_eui2=AeE69oqaOD5v9H-ihi_5-do0Z-oMeoafZxVn6gx6hp9nFd36q0B2DFO6pS0KeHVdzC1PWtqfAiL91iTFDw5N4T4O&_nc_ohc=H7gZsOa1yC8AX9xbJ0j&_nc_ht=scontent.fnvt10-1.fna&oh=00_AfCLlLs65JAGoxo5x_Ksm8dodbpzQnGgGtJFz8cJrN-Qvg&oe=6588430C",
+    "job": "Estudante",
+    "location": "Balneário Camboriú -SC",
+    "phone": "(47) 99659-5349",
+    "email": "luan10091993@hotmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/LuaSant93/js-developer-portfolio/main/data/imgs/html.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/LuaSant93/js-developer-portfolio/main/data/imgs/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/LuaSant93/js-developer-portfolio/main/data/imgs/js.png"
+        },
+        {
+          "name": "NodeJs",
+          "logo": "https://raw.githubusercontent.com/LuaSant93/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "Java",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        }
+   
+      ],
+      "softSkills": [
+        "Empatia",
+        "Liderança",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (Básico)"
+      
+    ],
+    "portfolio": [
+      {
+        "name": "Certifcard",
+        "url": "https://luasant93.github.io/certifcard/",
+        "github": true
+      },
+      {
+        "name": "Pokedex",
+        "url": "https://github.com/LuaSant93/pokedex",
+        "github": true
+      },
+      {
+        "name": "Portfólio",
+        "url": "https://github.com/LuaSant93/portfolio-luan-santos",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Breton / Auxiliar de Centro de Distribuição",
+        "period": "jan 2023 - nov 2023",
+        "description":"Como Auxiliar de Centro de Distribuição, desempenhei um papel fundamental na execução eficiente das operações logísticas. Minhas responsabilidades incluíam a recepção, armazenamento, separação e expedição de produtos,garantindo a precisão e a agilidade nas atividades de distribuição."
+      },
+      {
+        "name": "São Gabriel Marmores / Marmorista",
+        "period": "2020 - 2022",
+        "description": "Como marmorista, possuo experiência sólida na manipulação e instalação de materiais de pedra, incluindo mármore,granito e outras superfícies similares. Minha expertise abrange desde a preparação inicial do material até a instalação final, garantindo acabamentos de alta qualidade em projetos residenciais e comerciais."
+      },
+      {
+        "name": "Casas da Água / Auxiliar de Motorista",
+        "period": "2018 - 2020",
+        "description": "Como auxiliar de motorista, desempenhei um papel fundamental no suporte às operações de transporte, garantindo a entrega eficiente e segura de mercadorias. Colaborei estreitamente com os motoristas para assegurar a pontualidade e a precisão nas entregas, além de lidar com tarefas logísticas essenciais."
+      }
+    ]
+  }
