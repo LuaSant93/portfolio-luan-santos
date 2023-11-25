@@ -10,8 +10,8 @@
 
 .acordeon.open,
 .acordeon:hover {
-    background-color: #7879b4;
-    border-color: #7879b4;
+    background-color: #9799f8;
+    border-color: #9799f8;
     transition: 1s;
 }
 
