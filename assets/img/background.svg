@@ -1,8 +1,8 @@
 <svg width="2560" height="1964" viewBox="0 0 2560 1964" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#9EFFA2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#72D7EE;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#D1FF00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0062FF;stop-opacity:1" />
     </linearGradient>
     <filter id="filter0_f_835_19" x="-1650" y="-2173.76" width="4680.37" height="4137" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
@@ -23,4 +23,3 @@
     <rect width="235.958" height="1328.39" transform="matrix(-0.833501 0.552519 0.547264 0.83696 -656.658 -9.3103)" fill="url(#grad)" />
   </g>
 </svg>
-
