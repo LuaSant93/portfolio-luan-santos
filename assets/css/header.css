@@ -5,6 +5,16 @@
     position: relative;
 }
 
+h1,
+p {
+    color: white;
+    text-shadow: 10px 10px 5px lightblue;
+}
+
+h4 {
+    font-style: italic;
+}
+
 .header::after {
     content: '';
     display: inline-block;
@@ -21,7 +31,8 @@
 .header .photo {
     width: 200px;
     height: 200px;
-    border-radius: 50%;
+    border-radius: 20px 5px;
+    box-shadow: 10px 10px 10px lightskyblue;
 }
 
 .header .title {
